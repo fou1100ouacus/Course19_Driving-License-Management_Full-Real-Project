@@ -1,0 +1,14 @@
+D:\DATABASEFILES\UserControls\bin\Debug\UserControls.exe.config
+D:\DATABASEFILES\UserControls\bin\Debug\UserControls.exe
+D:\DATABASEFILES\UserControls\bin\Debug\UserControls.pdb
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.csproj.AssemblyReference.cache
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.simpleCalcu.resources
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.exe
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.pdb
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.Form1.resources
+D:\DATABASEFILES\UserControls\bin\Debug\Guna.UI.dll
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.csproj.CopyComplete
+D:\DATABASEFILES\UserControls\obj\Debug\UserControls.Form2.resources

@@ -1,0 +1,11 @@
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\bin\Debug\Send Data Back To Form Using Delegate.exe.config
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\bin\Debug\Send Data Back To Form Using Delegate.exe
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\bin\Debug\Send Data Back To Form Using Delegate.pdb
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send Data Back To Form Using Delegate.csproj.AssemblyReference.cache
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send_Data_Back_To_Form_Using_Delegate.Form1.resources
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send_Data_Back_To_Form_Using_Delegate.Form2.resources
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send_Data_Back_To_Form_Using_Delegate.Properties.Resources.resources
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send Data Back To Form Using Delegate.csproj.GenerateResource.cache
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send Data Back To Form Using Delegate.csproj.CoreCompileInputs.cache
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send Data Back To Form Using Delegate.exe
+D:\DATABASEFILES\DLM\Send Data Back To Form Using Delegate\obj\Debug\Send Data Back To Form Using Delegate.pdb

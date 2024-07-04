@@ -1,0 +1,20 @@
+D:\DVLD\DVLD System\obj\Debug\DVLD System.csproj.AssemblyReference.cache
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.frmMain.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.frmManagePeoples.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.Properties.Resources.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.frmAddUpdateUserr.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.frmManageUser.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD System.csproj.GenerateResource.cache
+D:\DVLD\DVLD System\obj\Debug\DVLD System.csproj.CoreCompileInputs.cache
+D:\DVLD\DVLD System\bin\Debug\DVLD System.exe.config
+D:\DVLD\DVLD System\bin\Debug\DVLD System.exe
+D:\DVLD\DVLD System\bin\Debug\DVLD System.pdb
+D:\DVLD\DVLD System\bin\Debug\BussinessLayer.dll
+D:\DVLD\DVLD System\bin\Debug\Guna.UI2.dll
+D:\DVLD\DVLD System\bin\Debug\DataAccessLayer.dll
+D:\DVLD\DVLD System\bin\Debug\BussinessLayer.pdb
+D:\DVLD\DVLD System\bin\Debug\DataAccessLayer.pdb
+D:\DVLD\DVLD System\obj\Debug\DVLD System.csproj.CopyComplete
+D:\DVLD\DVLD System\obj\Debug\DVLD System.pdb
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.ctrlPersonCard.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.frmAddUpdatePersonn.resources

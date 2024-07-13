@@ -35,3 +35,6 @@ D:\DVLD\DVLD System\obj\Debug\DVLDSystem.csproj.CoreCompileInputs.cache
 D:\DVLD\DVLD System\obj\Debug\DVLDSystem.csproj.CopyComplete
 D:\DVLD\DVLD System\obj\Debug\DVLD System.exe
 D:\DVLD\DVLD System\obj\Debug\DVLD System.pdb
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.ctrlScheduleTest.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.frmScheduleTest.resources
+D:\DVLD\DVLD System\obj\Debug\DVLD_System.frmListTestAppointments.resources

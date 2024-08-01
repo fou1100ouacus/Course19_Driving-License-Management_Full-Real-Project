@@ -43,7 +43,6 @@ The Driving License Management System is a desktop application developed in C# t
 - **Programming Language**: C#
 - **Framework**: .NET Framework
 - **Database**: SQLite (or other supported databases)
-- **UI Framework**: Windows Forms or WPF (Windows Presentation Foundation)
 
 
 Thank you for using the Driving License Management System!

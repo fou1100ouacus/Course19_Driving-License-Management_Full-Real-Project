@@ -3,7 +3,7 @@
 ## Project Overview
 ### The Driving License Management System is a desktop application developed in C# to manage driving licenses efficiently. 
 ### This application simplifies the process of applying for new licenses, renewing existing ones, and handling user records, 
-### making it an ideal tool for both individual users and  administrative staff.
+
 ![image](https://github.com/user-attachments/assets/4475ecec-b319-4b56-8395-8568307a5a2a)
 
 # Driving & Vehicle License Department (DVLD) - License Management System
